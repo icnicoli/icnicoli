@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicoli
-- 👀 I’m interested in in learning Web and Mobile App Development
+- 👀 I’m interested in learning Web and Mobile App Development
 - 🌱 I’m currently in college
 - 📫 How to reach me: sabandalisaac@gmail.com | @icnicoli on Insta!
 
