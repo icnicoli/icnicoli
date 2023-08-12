@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicoli
-- 👀 I’m UI/U Designing and Development
+- 👀 I’m UI/UX Designing and Development
 - 🌱 I’m currently in college
 - 📫 How to reach me: sabandalisaac@gmail.com | @icnicoli on Insta!
 
