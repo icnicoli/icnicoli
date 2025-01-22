@@ -1,7 +1,7 @@
 - 👋 Salut, I’m Isaac
 - ❤️ I'm passionate about design and development
 - 👀 Right now I'm tinkering on... my resume
-- 🌱 à part ça, j'aime aussi apprendre la géographie
+- 🌱 À part ça, j'aime aussi apprendre la géographie
 - 📫 Reach me on my email: sabandalisaac@gmail.com
 
 <!---
